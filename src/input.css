@@ -1,1 +1,5 @@
 @import "tailwindcss";
+@theme {
+  --text-primary: #df6853;
+  --text-secondary: #f5e4e1;
+}
